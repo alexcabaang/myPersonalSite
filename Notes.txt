@@ -5,6 +5,8 @@
 				This will link your new reposity in the server to your local folder
 4. git push -u origin master		Finally saves or update your local folder to your new repository
 5. git commit -m  'Modified Notes'	Update server with new files or edited files
+6. 
 
 ---------
 git clone https://github.com/alexcabaang/test-site.git
+
